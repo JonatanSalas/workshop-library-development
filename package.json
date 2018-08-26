@@ -1,0 +1,14 @@
+{
+  "name": "how-to-create-a-library",
+  "version": "1.0.0",
+  "description": "Slides para el workshop de como crear una librería",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck -p 4000 deck.mdx"
+  },
+  "author": "Kid",
+  "license": "MIT",
+  "dependencies": {
+    "mdx-deck": "^1.6.7"
+  }
+}
